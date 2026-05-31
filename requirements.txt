@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydub
+moviepy
+requests
+numpy
